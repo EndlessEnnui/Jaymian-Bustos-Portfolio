@@ -7,7 +7,7 @@ body {
   font-family: "Press Start 2P", cursive;
   font-size: 15px;
   background-color: #ffc0cb;
-  color: black;
+  color:black;
   padding-top: 5rem;
 }
 .starter-template {
@@ -22,7 +22,7 @@ body {
   font-size:1.25rem;
   line-height:inherit;
   white-space:nowrap;
-  color:white;
+  color:black;
   
 }
 h1 {
